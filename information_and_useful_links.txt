@@ -1,0 +1,218 @@
+[url=https://postimages.org/][img]https://s19.postimg.org/mohgwmr5f/Pro_Mazda_Banner_Information_Topic.png[/img][/url]
+
+[b][color=orange][size=24]Welcome[/size][/color][/b] [b][color=green][size=24]at the[/size][/color][/b][b] [size=24][color=darkblue]Pro Mazda Series[/color][/b][/size]
+
+[youtube]https://www.youtube.com/watch?v=4l6loCOVwt4[/youtube]
+
+[size=16]In this topic you will find all the information you need to have a good start in this great series.
+[b] [color=darkblue]Say hello[/color][/b] in [url=http://members.iracing.com/jforum/posts/list/3568811.page][color=darkblue][b] [Questions, Setups & Introductions][/b] [/color][/url]topic and if you have questions ask them there or in the weekly threads [color=green](***201x Season x Week xx - Name Circuit**)[/color][/size]
+
+[b][color=blue]1. Before you start[/color][/b]
+[b][color=orange]2. Schedules[/color][/b]
+[b][color=blue]3. Setups & Tutorials[/color][/b]
+[b][color=orange]4. Hall of Fame[/color][/b]
+[b][color=blue]5. Useful Links[/color][/b]
+
+=======================================================================================================
+
+[b][color=blue][size=18]1. Before you start[/color] [/size][/b]
+In this part you find information about the series and some tips and tricks before you start your engine.
+
+[b]A. Before you start [video tutorial][/b]
+[b]B. Race Info[/b]
+[b]C. Championship & Divisions[/b]
+[b]D. Pitstops & Useful Keys[/b]
+[size=14]D.1 Pitstops[/size]
+[size=14]D.2 Useful Keys & Commands[/size]
+
+[color=orange][size=16][b]A. Before you start[/b][/size][/color]
+A tutorial with some useful information about cockpit settings, championship scoring tables and other useful information.
+
+[youtube]https://www.youtube.com/watch?v=E0HGPd9W5r4[/youtube]
+
+[color=orange][size=16][b]B. Race Info[/b][/size][/color]
+In the weekly threads  [color=green](***201x Season x Week xx - Name Circuit**)[/color] you will find all the information you need about that particulair week, like hotlaps (video and TT best laps), tutorials, race info, weather conditions, comparing times, setup share and many more. To watch the tutorials and the hotlaps is a good way to learn from the quickest drivers in this series.
+
+[u]General information [/u]
+[b]Race Length -[/b] 26 to 38 minutes
+[b]Starts -[/b] both Standing ( Road ) and Rolling ( Oval )
+[b]Tracks -[/b] we race on majority Road tracks but have at least 1 Oval track
+[b]Splits -[/b] Race will split when there are more then 24
+[b]Qualifying - [/b] Attached to race Session and is max 2 laps within a 7 minute window
+[b]Official Races -[/b] 6 drivers are the minimum for a race to be Official
+[b]Fuel - [/b]Fuel Tank is limited to 25% ( 4.75 gallons / 18 litres )
+
+
+[color=orange][size=16][b]C.Championship & Divisions[/b][/size][/color]
+Each standard Race series will be divided into 10 competition divisions, grouping drivers of similar skill level in competition for the remainder of the season. Any standard series open to holders of rookie competition licenses shall include an eleventh division for any rookie license holders participating in that series.
+
+At the beginning of each season, the iRacing.com system will  automatically partition drivers [b]into 10 (or 11 when appropriate) [/b]competition divisions based on the previous s[b]eason ending iRatings[/b].
+
+Assignment to a division is made based on your rating (iRating for race, and ttRating for time trial). The range of rating points for each division are fixed. [b]The lowest rating[/b] to get [b]into divisions from 1 to 10 [/b]are as follows:
+[color=blue]Race: 0, 500, 720, 927, 1130, 1278, 1440, 1713, 2283, 3500 [/color]
+[color=green]Time Trial: 0, 950, 1120, 1203, 1244, 1278, 1314, 1358, 1483, 1800[/color]
+
+[color=orange][size=16][b]D.Pitstops & Useful Keys[/b][/size][/color]
+
+[color=orange][b]D.1 Pitstops[/b][/color]
+Pro Mazda has 19 gallons / 72 litres of fuel but for this season has 25% restriction which gives max fuel of 4.75 gallons / 18 litres for official sessions only. This will be enough for most races like Bathurst where 16 laps will use a bit over 4 gallons ( 4 gallons will get approx 14.9 laps which is roughly .273 gallons per lap ) .
+
+[color=orange][b]D.2 Useful Keys & Commands[/b][/color]
+Some circuits will require a pit stop for fuel and the easiest way is [b]to clear all options[/b] for your fuel stop ( new tyres wont have much effect on the length of races we do but will increase your pit time) Macro's are the easiest way to do this .
+
+Step 1. Command:  [b]#clear fuel 1g$ [/b]= No tires or windshield, just 1 gallon (splash) of fuel.
+
+Step 2. Now you will only need one macro and bind that to a button on your steering wheel or whatever. So in Options just add #clear fuel 1g$ as per picture [/b]
+
+[url=https://postimg.org/image/zfx3q99gp/][img]https://s20.postimg.org/rzxu4glrh/savefuel.png[/img][/url]
+
+[color=darkblue]Or[/color]
+
+You can [b]clear all options[/b] by changing a command in [b]app.ini[/b] file.
+
+Step 1. This app.ini file is at your [b]iRacing folder[/b] on your computer.
+Step 2. Find: [b][Pit Service][/b]
+Step 3. Change [b]AutoResetPitbox[/b] to [b]0[/b]
+
+See picture below:
+[url=https://postimages.org/][img]https://s19.postimg.org/rmb5zic7n/No_Tires_No_Fuel.png[/img][/url]
+
+=======================================================================================================
+
+[b][color=blue][size=18]2. Schedules[/color] [/size][/b]
+[b]A. Season schedule
+B. SOF-races
+C. Broadcasts
+[/b]
+[color=orange][size=16][b]A. Season schedules [/b][/size][/color]
+[size=12][b][color=darkblue]This the schedule of 2018 Season 1
+[/color][/b][/size][url=https://s19.postimg.org/r9v2b86cj/Pro_Mazda_Schedule18_S1.png/][img]https://s19.postimg.org/r9v2b86cj/Pro_Mazda_Schedule18_S1.png[/img][/url]
+
+[color=orange][size=16][b]B. SOF-races [/b][/size][/color]
+SOF means = strength of field. More people with high rating in a split means more points for championships. We have some time schedules where we meet each other to race together. Last seasons these days and times were the best times to race with each other. It can change every season. So we always keep an eye on this.
+
+[url=https://postimages.org/][img]https://s19.postimg.org/imw3lsy6b/SOFRACESPM_MEDIUM1.png[/img][/url]
+
+[color=orange][size=16][b]C. Broadcasts [/b][/size][/color]
+The Pro Mazda community collects money to organize broadcasts in [b]official events[/b]. The race will be live on Youtube, only the top split.
+
+[b][color=darkblue]If you donate[/color],[/b] no matter what your level or skills are, you will be invited to be at a [b]special broadcast[/b] in [b]week 6 [/b]and [b]13[/b]. More info click [url=http://members.iracing.com/jforum/posts/list/3592753.page][color=darkblue][b]here.[/b][/color][/url]
+
+[url=https://postimages.org/][img]https://s19.postimg.org/7rzghefkj/BROADCASTBANNERS_2018_S2_POSTIMAGE.png[/img][/url]
+=======================================================================================================
+
+[b][color=blue][size=18]3. Setups & Tutorials[/color] [/size][/b]
+[b]A. Setups[/b]
+[size=14]A.1 iRacing Setups[/size]
+[size=14]A.2 Setup Guide[/size]
+[size=14]A.3 Virtual Racing School[/size]
+[b]B. Track Tutorials[/b]
+
+[color=orange][size=16][b]A. Setup Guide[/b][/size][/color]
+Below some information about how to make setups.
+
+[b][color=orange]A.1 iRacing Setups[/color][/b]
+iRacing provides [b]four[/b] setups for Pro Mazda verhicle:
+[list]baseline[/list]
+[list]high downforce[/list]
+[list]medium downforce[/list]
+[list]low downforce[/list]
+
+Your setup choice depends the track you are racing. [b]High downforce[/b]  is for tracks with short straight and a bunch of corners (Laguna Seca, Brands Hatch, Hungaoring, Monaco). [b]Medium downforce[/b] can be used for tracks with a few long straights, but also wih fast and slow corners (Suzuka, Bathurst). [b]Low downforce[/b] would be working for tracks with very long straights and less corners. (Le Mans, Monza).
+
+[b][color=orange]A.2 Setup Guide[/color]
+[/b]
+In the  [url=http://members.iracing.com/jforum/posts/list/3568811.page][color=darkblue][b] [Questions, Setups & Introductions][/b] [/color][/url]topic you will find more info. There is also an ''old'' useful setup guide in [url=http://members.iracing.com/jforum/posts/list/1841938.page] [color=darkblue][[b]Star Mazda Setup Guide][/b][/color][/url]
+
+[b][color=orange]A.3 Virtual Racing School[/color][/b]
+
+[url=https://virtualracingschool.com][img]https://virtualracingschool.com/downloads/vrs-iracing-forum.png[/img][/url]
+
+[B][color=darkblue][size=14]Virtual Racing School (VRS) offers a datapack [url=https://virtualracingschool.appspot.com/#/DataPacks/20410001]Pro Mazda Championship - Pro Mazda (2018 Season 1)[/url] containing setup, blap/olap, replay and telemetry by [/color][/size][color=orange][size=14]Julian Dunne.[/size][/color][/b]
+
+[youtube]https://www.youtube.com/watch?v=lS3SaB04Q-Y[/youtube]
+
+On the moment these datapacks and tutorials are [b]free[/b]. But in the near future every datapack would be premium. That means u should buy a subscription.
+
+[color=orange][size=16][b]B. Tutorials[/b][/size][/color]
+
+Some people on the forum make tutorials about how to drive a track or how to make a setup. On of these guys is Thomas Jordan. He is indepedent. Has no team, don't care much about championships. He drives for fun. Most of the time he is doing Time Trials. His times are good bechmarkers.
+
+[url=https://www.youtube.com/channel/UCqtNS_euPsf4Pin6ryHgmLg][img]https://s19.postimg.org/9mmhsfdib/TJBANNER2.png[/img][/url]
+
+Click on the banner to go to his channel. In almost every weekly thread there will be a free tutorial about the track from that week.
+Virtual Racing School (see above) has tutorials to. But to use their tutorials you have to buy a premium subscription.
+
+=======================================================================================================
+
+[b][color=blue][size=18]4. Hall of Fame[/color] [/size][/b]
+
+[url=https://postimages.org/][img]https://s14.postimg.org/m2o1j27gh/Hallof_Fame2.png[/img][/url]
+[size=18] Our defending champion is:[/size]
+[url=https://postimages.org/][img]https://s19.postimg.org/412nga71v/2017_S4.png[/img][/url]
+[size=16][b]Country[/b]: Australia
+[b]Place of Birth:[/b]
+[b]Active at:[/b] Pro Mazda
+[b]Team:[/b] Virtual Racing School
+[b]Motto:[/b][/size]
+
+In [url=http://members.iracing.com/jforum/posts/list/3591350.page][b][color=blue]this[/b] [/color][/url] topic you will see all the previous winners of the championship. In the clip below you would you will see some more historic background.
+
+[youtube]https://www.youtube.com/watch?v=R2Ot3XCflVI[/youtube]
+
+=======================================================================================================
+
+[b][color=blue][size=18]5. Useful Links[/color] [/size][/b]
+[b]A. Unofficial Pro Mazda channel[/b]
+[b]B. Streaming[/b]
+[b]C. Websites[/b]
+
+[color=orange][size=16][b]A. Unofficial Pro Mazda channel[/b][/size][/color]
+
+[url=https://www.youtube.com/channel/UCOivVo_wqicXO61UYr0zauA][img]https://s19.postimg.org/pcrmw7o83/Pro_Mazda_Clipsi_Racing.png[/img][/url]
+
+The series has an [b]unofficial[/b] youtube channel, hosted by Martijn Arnoldus (Netherlands). On this channel you see the following things:
+
+[list]Highlights [/list]
+[list]Season clips[/list]
+[list]Hotlaps[/list]
+[list]Tutorials[/list]
+[list]Streaming[/list]
+[list]History[/list]
+
+Click on the banner to see this channel.
+
+[color=orange][size=16][b]B. Streaming[/b][/size][/color]
+Some drivers stream their Pro Mazda races. Below you see the following names who do streaming. If you click on the banner you go to their channel. Below the banner their Twitch channel.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[url=https://www.youtube.com/channel/UCeqtP1oHLDSPZBAd4NPGf1Q][img]https://s19.postimg.org/wlre0thrn/Jerome_Haag_Banner.png[/img][/url]
+[url=https://www.twitch.tv/jerome_h/][img]https://s19.postimg.org/xrzzdhdhf/Twitch_Banner2.png[/img][/url]
+[b][color=darkblue]
+[size=16]Jerome Haag[/color][/b] is multiple champion in the Pro Mazda Series. He drives different series and once in a while he will show up in this great car. His channel unfortunately in French, but if you ask questions in English, Jerome can answer clearly.[/size]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[url=https://www.youtube.com/user/TheWorldofKinduci/][img]https://s19.postimg.org/9qt3bngk3/Plumley_Banner.png[/img][/url]
+[url=https://www.twitch.tv/theworldofkinduci/][img]https://s19.postimg.org/xrzzdhdhf/Twitch_Banner2.png[/img][/url]
+
+[size=16][b][color=darkblue]Robert Plumley[/color] [/b]is one the funniest, coolest and most respectful streamers on iRacing. He drives almost every car, including the Pro Mazda. [/size]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[color=orange][size=16][b]C. Websites[/b][/size][/color]
+
+
+[url=https://www.promazda.com/][b][color=darkblue]Information[/b][/color][/url] about the official Pro Mazda series
+
+[url=http://members.iracing.com/jforum/posts/list/3503921.page#10085306 ][color=darkblue][b]here[/b][/color][/url] is a link to a post by Tanner about Oval racing
+
+[url=http://www.edracing.com/edr/FOV.php][color=darkblue][b]Set[/b][/color][/url] the correct FOV
+
+[url=http://www.edracing.com/edr/Camera-UI.php ][color=darkblue][b]Adjust[/b][/color][/url] your cockpit camera & move your black boxes
+
+[url=http://racespot.tv][b][color=darkblue]Racespot.tv[/color][/b][/url]. Our official broadcast partner. Check their website for more great events.
+
+
+

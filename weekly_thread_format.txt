@@ -1,0 +1,95 @@
+[url=http://members.iracing.com/jforum/posts/list/3591997.page#10908137]Pro Mazda Information & Useful Links[/url] [color=black][b]/[/b][/color][url=http://members.iracing.com/jforum/posts/list/3568811.page] Question's, Setups & introductions[/url] [color=black][b]/[/b][/color]
+[size=9][b]Broadcasts & Weekly threads:[/b] Martijn Arnoldus / [b]Tutorials  & Setups: [/b]Julian Dunne & Thomas Jordan / [b]Schedule:[/b] Brenton Parker / [b]Stats:[/b] Aaron Kobayashi / Philippe Leybaert  [b]Layout:[/b] Will Sutton[/size]
+
+===================================================
+
+[url=https://postimages.org/][img]https://s19.postimg.org/purltlf1v/OPENINGBANNER.png[/img][/url]
+
+[size=16][color=red][b]Hello Pro-Mazda-driver,[/b][/color]
+[/size][size=16][b]
+[color=blue]Season 1 of 2018 continues at[/color] [color=orange]Autodromo Nazionale Monza[/color] [color=green][Grand Prix][/color][/b]
+[/size]
+[url=https://postimages.org/][img]https://s19.postimg.org/6nazrch5f/Monza_Pro_Mazda.jpg[/img][/url]
+
+===================================================
+
+[url=https://postimages.org/][img]https://s19.postimg.org/diopge1kj/RACEINFOBANNER.png[/img][/url]
+[size=12][color=blue][b]Week:[/b][/color] 12
+[color=green][b]Date:[/b][/color] 27th of February till 06th of March 2018
+[color=blue][b]Broadcast:[/b] [/color] No event scheduled
+[color=green][b]Race:[/b][/color] Quarter to the hour, every 2 hours
+[color=blue][b]Laps:[/b][/color] 21 laps
+[color=green][b]Weather:[/b][/color] Late Afternoon
+[color=blue][b]Starts[/b]:[/color] Standing
+[color=green][b]Fuel:[/b][/color] 6.0g / 23.0l
+[color=blue][b]Qualifying:[/b][/color] Single Qualifying Session attached to the race ( 2 laps/ 8 minutes)
+[color=green][b]Pit speed limit:[/b][/color] 50 mph (80 km/h)
+[color=blue][b]Pit stop required:[/b][/color] YES[/size]
+
+===================================================
+
+[url=https://postimages.org/][img]https://s19.postimg.org/fyqiuah37/BANNERSCHEDULE.png[/img][/url]
+
+[size=16][b][color=orange]1.Schedule[/b] [/color][/size]
+[size=12][b][color=darkblue]This the schedule of 2018 Season 1
+[/color][/b][/size][url=https://s19.postimg.org/r9v2b86cj/Pro_Mazda_Schedule18_S1.png/][img]https://s19.postimg.org/r9v2b86cj/Pro_Mazda_Schedule18_S1.png[/img][/url]
+
+[size=16][b][color=orange]2. SOF-races[/b] [/color][/size]
+[b][color=darkblue][size=12]If you want to join the big matches, check below:[/color][/b][/size]
+[url=https://s19.postimg.org/7btfxo48j/SOFRACESPM_MEDIUM2.png][img]https://s19.postimg.org/7btfxo48j/SOFRACESPM_MEDIUM2.png[/img][/url]
+
+[size=16][b][color=orange]3. Broadcasts[/b][/color][/size][b]
+[color=darkblue][size=12]This season we have four broadcasts. People who are donating, will join the week 13 broadcast.[/size]
+[/color][/b][url=http://members.iracing.com/jforum/posts/list/3580891.page][img]https://s19.postimg.org/3kt3qapib/BROADCASTBANNERSMEDIUM3.png[/img][/url]
+
+===================================================
+
+[url=https://postimages.org/][img]https://s19.postimg.org/a84xuco77/STATISTICS.png[/img][/url]
+[color=blue][b][size=9]By Philippe Leybaert[/size][/b][/color][b][size=9] [color=black] [url=http://irleagues.com/sm/login]irleagues.com[/url][/b][/color][/size]
+[img]http://irleagues.com/sm/img/2018s1/12/weekstats.png[/img]
+[img]http://irleagues.com/sm/img/2018s1/champ30.png [/img]
+
+===================================================
+
+[url=https://virtualracingschool.com][img]https://virtualracingschool.com/downloads/vrs-iracing-forum.png[/img][/url]
+
+[B][color=darkblue][size=12]Virtual Racing School (VRS) offers a datapack [url=https://virtualracingschool.appspot.com/#/DataPacks/20410001]Pro Mazda Championship - Pro Mazda (2018 Season 1)[/url] containing setup, blap/olap, replay and telemetry by [/color][/size][color=orange][size=12]Julian Dunne.[/size][/color][/b]
+
+[youtube]http://www.youtube.com/watch?v=OE7gMw32GlQ[/youtube]
+
+[Size=12][color=green][b]
+Week 12 - Autodromo Nazionale Monza (Grand Prix)[/color][/b]
+[List]Laptime 1:46.812 (using VRS 2018 S1 Monza Q.sto)[/list]
+[List]Laptime 1:47.071 (using VRS 2018 S1 Monza Q (B Set).sto)[/list]
+[List]Default weather (late afternoon - 28.81C / 83F track temp)[/list]
+[List]Track state (low usage)[/list][/size]
+[size=12][color=orange][b]All files and videos can be found[/b] [/color][url=http://virtualracingschool.appspot.com/#/DataPacks/20410001/1519170075][b]here[/b][/url][/size]
+
+[Size=12][b][color=red]Times to compare (default late afternoon):[/b][/color]
+[list][b]99.5%:[/b] [b][color=darkblue] 1.46.278 (alien)[/color][/list][/b]
+[list][b]100%:[/b] [b][color=green] 1:46.812 (very fast)[/color][/list][/b]
+[list][b]101%:[/b] [b][color=darkblue] 1.47.880  (fast)[/color][/list][/b]
+[list][b]102%:[/b] [b][color=green] 1.48.948 (good)[/color][/list][/b]
+[list][b]103%:[/b] [b][color=darkblue] 1.50.016 (decent)[/color][/list][/b]
+[list][b]104%:[/b] [b][color=green] 1.51.084 (all right)[/color][/size][/list][/b]
+[color=red][size=12][b]Outside:[/b][/color]
+[list][b]107%:[/b] [b][color=darkblue]1.54.289 (more practice)[/color][/size][/list][/b]
+
+===================================================
+
+[url=https://www.youtube.com/channel/UCqtNS_euPsf4Pin6ryHgmLg][img]https://s19.postimg.org/9mmhsfdib/TJBANNER2.png[/img][/url]
+[youtube]https://www.youtube.com/watch?v=.
+=================================================
+
+[url=https://s19.postimg.org/wmt54mdv7/Donate_Participate_Medium.png][img]https://s19.postimg.org/wmt54mdv7/Donate_Participate_Medium.png[/img][/url]
+[size=12][color=darkblue][b]Donations could be done thru [/color][color=green]Paypal[/color] [color=black]or[/color] [color=green]ING bankacccount.[/color][/b][/size] [b][size=12][color=darkblue]With your donations we can promote the series and make races more special. If you donate, you will be invited for a [/color][color=orange]special broadcast[/color] [color=darkblue]in week 13.[/color] [/size][/b]
+
+[Size=12][b][color=darkblue]Click below on one of the links to donate.[/color][color=orange]Thank you very much.[/b][/color][/size]
+
+[size=12][list][url=https://www.paypal.me/promazda/5]Paypal $05[/url][/list]
+[list][url=https://www.paypal.me/promazda/10]Paypal $10[/url][/list]
+[list][url=https://www.paypal.me/promazda/15]Paypal $15[/url][/list]
+[list][url=https://www.paypal.me/promazda/20]Paypal $20[/url][/list]
+[list][url=https://www.paypal.me/promazda]Paypal $**[/url][/list][/size]
+
+[size=12][b][color=darkblue]Or[/color][/b] [color=orange][b]PM Martijn Arnoldus[/b][/color][color=darkblue] if you want to do a [b]banktransfer.[/b][/color] [b][color=orange]More info at:[/color][/b] [url=http://members.iracing.com/jforum/posts/list/3580891.page#10791968]Broadcasts Season 1 2018[/url][/size]
